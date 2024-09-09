@@ -59,17 +59,6 @@ ul li {
   margin: 12px;
 }
 
-.links a {
-  display: block;
-  margin: 0.5em 0;
-  color: #4caf50;
-  text-decoration: none;
-}
-
-.links a:hover {
-  text-decoration: underline;
-}
-
 footer {
   width: 100%;
   padding: 1em;
@@ -89,7 +78,8 @@ footer {
   text-align: center;
 }
 
-#about ul {
+#about ul,
+#contact ul {
   text-align: left;
 }
 
